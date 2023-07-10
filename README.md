@@ -1,3 +1,4 @@
 row | School | Salon.NO | 🧍Capacity🧍‍♂️ | Start date | Device | MNGD | SMS 
 --- | --- | --- | --- |--- |--- |--- |--- 
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 
+1 | Hasheminejhad3 | 3 | 114 | 1401/01/21 | 1 | 0 | Kavenegar 
+2 | Farzanegan3 | 2 | 121 | 1401/10/14 | 2 | 2 | Kavenegar 
