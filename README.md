@@ -7,3 +7,4 @@ row | School | Salon.NO | 🧍Capacity🧍‍♂️ | Start date | Device | Devi
 5 | MehrazSharif | 1 | 82 | 1402/04/03 | 0 | - | 0 | Payamresan
 6 | Meftah | 2 | 50 | 1402/04/19 | 0 | - | 0 | Payamresan
 7 | Olampyyad Shiraz | 2 | 42 | 1402/ | 0 | - | 0 | Payamresan
+8 | Reza Sadeghi | 1 | 62 | 1402/ | 0 | - | 0 | -
