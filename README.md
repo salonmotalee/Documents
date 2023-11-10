@@ -6,5 +6,5 @@ row | School | Salon.NO | 🧍Capacity🧍‍♂️ | Start date | Device | Devi
 4 | Farzanegan1 | 1 | 113 | 1401/12/03 | 1 | 5 | 1 | Kavenegar 
 5 | MehrazSharif | 1 | 82 | 1402/04/03 | 0 | - | 0 | Payamresan
 6 | Meftah | 2 | 50 | 1402/04/19 | 0 | - | 0 | Payamresan
-7 | Olampyyad Shiraz | 2 | 42 | 1402/ | 0 | - | 0 | Payamresan
-8 | Reza Sadeghi | 1 | 62 | 1402/ | 0 | - | 0 | -
+7 | Olampyyad Shiraz | 2 | 42 | 1402/07/08 | 0 | - | 0 | Payamresan
+8 | Reza Sadeghi | 1 | 62 | 1402/08/03 | 0 | - | 0 | -
