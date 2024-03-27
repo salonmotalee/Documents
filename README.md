@@ -8,3 +8,7 @@ row | School | Salon.NO | 🧍Capacity🧍‍♂️ | Start date | Device | Devi
 6 | Meftah | 2 | 50 | 1402/04/19 | 0 | - | 0 | Payamresan
 7 | Olampyyad Shiraz | 2 | 42 | 1402/07/08 | 0 | - | 0 | Payamresan
 8 | Reza Sadeghi | 1 | 62 | 1402/08/03 | 0 | - | 0 | -
+
+
+
+AA>=;9;@95L;;?I<I<<=;>;?N>??@?;=I<A?=<8=9>A<=>8===K<A;A<;<>=??>?J<:<9=9<A;;<A<>?8??<=;9;==<<<<;>9=
